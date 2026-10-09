@@ -26,7 +26,6 @@
 
 #include "getargs.h"
 #include "command.h"
-#include "config.h"
 
 /**
  * @brief   parses command line arguments to llama-shell
