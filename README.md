@@ -5,7 +5,7 @@ progres, so you probably shouldn't replace bash just yet, but it is steadily
 developing and will hopefully be a full-featured, POSIX compliant shell in the
 near future.
 
-## Update:
+## Update
 * llama-shell supports the I/O redirection operators >, >>, <, <, 2>, 2>>, and &>. To
 use these operators, they currently must be separated on both sides by
 whitespace (ls > outfile not ls>outfile).
@@ -21,7 +21,7 @@ often be broken, or not work as well as they should. This is currently a
 learning project so I am not taking pull requests at this time. I hope to grow
 this into a full-featured shell, at which point I will welcome contributions.
 
-## TO-DO List:
+## TO-DO List
 - [x] Implement signal handling for SIGINT, SIGQUIT, and SIGTSTP
 - [ ] Allow for process backgrounding
 - [x] Implement I/O redirection (i.e. >, >>, etc.)
